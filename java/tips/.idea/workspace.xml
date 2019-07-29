@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="602ba46f-54cb-4615-80d8-5eb41ec2de21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tips/com/company/a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tips/com/company/a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tips/com/company/StringType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tips/com/company/StringType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/StringType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/StringType.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/StringType.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/MakeDef.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+            <state relative-caret-position="187">
+              <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -50,10 +50,12 @@
         <option value="$PROJECT_DIR$/src/com/company/TicTacToeGame.java" />
         <option value="$PROJECT_DIR$/src/com/company/String.java" />
         <option value="$PROJECT_DIR$/src/com/company/StringType.java" />
+        <option value="$PROJECT_DIR$/src/com/company/MathString.java" />
+        <option value="$PROJECT_DIR$/src/com/company/MakeDef.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -67,6 +69,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,7 +92,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -108,7 +110,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringType">
+  <component name="RunManager" selected="Application.MakeDef">
     <configuration name="嵌套与判断" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.嵌套与判断" />
       <module name="tips" />
@@ -122,12 +124,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="F:/IntelliJ IDEA/JDK" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+    <configuration name="MakeDef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.MakeDef" />
+      <module name="tips" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.MathString" />
+      <module name="tips" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -210,33 +228,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.a" />
-      <module name="tips" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.a" />
       <item itemvalue="Application.嵌套与判断" />
       <item itemvalue="Application.TicTacToeGame" />
       <item itemvalue="Application.StringType" />
+      <item itemvalue="Application.MathString" />
+      <item itemvalue="Application.MakeDef" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MakeDef" />
+        <item itemvalue="Application.MathString" />
         <item itemvalue="Application.StringType" />
         <item itemvalue="Application.TicTacToeGame" />
         <item itemvalue="Application.嵌套与判断" />
-        <item itemvalue="Application.a" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -264,6 +269,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="676" y="0" width="697" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.34065935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -302,20 +308,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/读入.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/嵌套与判断.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="73" column="36" lean-forward="true" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/a.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="103" column="8" selection-start-line="103" selection-start-column="8" selection-end-line="103" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/循环.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -345,17 +337,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/String.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/String.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/嵌套与判断.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="267">
+          <caret line="73" column="36" lean-forward="true" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/StringType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        <state relative-caret-position="399">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2884">
+          <caret line="103" column="8" selection-start-line="103" selection-start-column="8" selection-end-line="103" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MathString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MakeDef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
         </state>
       </provider>
     </entry>
