@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="602ba46f-54cb-4615-80d8-5eb41ec2de21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tips/com/company/StringType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tips/com/company/StringType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/StringType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/StringType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python爬虫/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python爬虫/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据结构/线性结构/广义表.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../数据结构/线性结构/广义表.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,17 +17,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/MakeDef.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,10 +42,11 @@
         <option value="$PROJECT_DIR$/src/com/company/StringType.java" />
         <option value="$PROJECT_DIR$/src/com/company/MathString.java" />
         <option value="$PROJECT_DIR$/src/com/company/MakeDef.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvance/类型系统.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -67,35 +58,11 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="tips" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tips" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tips" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tips" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tips" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tips" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="D:/其他作业/PDTbePPT" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunDashboard">
@@ -229,11 +196,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.嵌套与判断" />
-      <item itemvalue="Application.TicTacToeGame" />
-      <item itemvalue="Application.StringType" />
-      <item itemvalue="Application.MathString" />
       <item itemvalue="Application.MakeDef" />
+      <item itemvalue="Application.MathString" />
+      <item itemvalue="Application.StringType" />
+      <item itemvalue="Application.TicTacToeGame" />
+      <item itemvalue="Application.嵌套与判断" />
     </list>
     <recent_temporary>
       <list>
@@ -269,7 +236,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="676" y="0" width="697" height="735" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.34065935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -370,6 +336,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvance/类型系统.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

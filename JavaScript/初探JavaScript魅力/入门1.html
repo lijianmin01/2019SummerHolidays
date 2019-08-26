@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #div1{
+            width: 200px;
+            height:100px;
+            background: #ccc;
+            border: 1px solid #999;
+            display: none;
+        }
+    </style>
+    <script>
+        function toGreen() {
+            document.getElementById('div').style.width='300px';
+            document.getElementById('div').style.height='300px';
+            document.getElementById('div').style.background='red';
+        }
+    </script>
+</head>
+<body>
+    <h2>1、鼠标提示框</h2>
+    <input type="checkbox" onmouseover="document.getElementById('div1').style.display='block';toGreen();"
+           onmouseout="toGreen()"/>
+    <div id="div1">
+        为了你的信息安全.........
+    </div>
+</body>
+</html>

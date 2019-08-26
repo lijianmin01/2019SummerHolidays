@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="Generator" content="Editplus">
+    <meta name="Author" content="">
+    <meta name="Keywords" content="">
+    <meta name="Description" content="">
+    <title>python web~之纯音乐播放器</title>
+    <style type="text/css">
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        #music{
+            width:730px;
+            height:470px;
+            background-color: darkgray;
+            margin: 120px auto;
+        }
+        #MusicCon{
+            width:360px;
+            height: 470px;
+            background: antiquewhite;
+            display: inline-block;
+            float: left;
+        }
+        #MusicList{
+            width: 370px;
+            height:470px;
+            background: #cccccc;
+            display: inline-block;
+        }
+        #MusicCon>h3{
+            height: 60px;
+            background: burlywood;
+            font-size:20px;
+            font-weight: 100;
+            text-align: center;
+            line-height:60px;
+        }
+        #MusicCon>img{
+            display:block;
+        }
+        #MusicCon>.but{
+            width: 360px;
+            height:110px;
+            //background: darkseagreen;
+            padding-top: 30px;
+        }
+        #MusicCon>.but>p{
+            width:140px;
+            height:35px;
+
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <div id="music">
+        <div id="MusicCon">
+            <h3>简单音乐</h3>
+            <img src="imgs/cat.png" alt="cat" width="360px" height="240px"/>
+            <div class="but">
+                <p>
+                    <span class="prev">1</span>
+                    <span class="play">2</span>
+                    <span class="next">3</span>
+                </p>
+            </div>
+        </div>
+        <div id="MusicList"></div>
+    </div>
+</body>
+</html>

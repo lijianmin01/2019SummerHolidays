@@ -1,0 +1,25 @@
+
+    {
+        FLAG=0;
+        for(i=0;i<n;i++)
+        {
+            if(p[i].flag==1)
+            {
+                FLAG++;
+            }else
+            {
+                for(j=0;j<n&&j!=i&&p[j].flag>0;j++)
+                {
+                    if(gcd(p[i].shu,p[j].shu)==1)
+                    {
+                        FLAG++;
+                        p[i].flag=1;
+                        p[j].flag++;
+                        break;
+                    }
+                }
+            }
+        }
+    }
+    for(i=0;i<n;i++)
+    {
