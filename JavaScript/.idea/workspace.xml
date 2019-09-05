@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46310ea7-4c81-49b8-a24a-fd05b3adadee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../java/tips/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/tips/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python爬虫/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python爬虫/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../数据结构/线性结构/广义表.c" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构/线性结构/广义表.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python爬虫/爬虫实战/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python爬虫/爬虫实战/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构/oj/tempCodeRunnerFile.c" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构/oj/tempCodeRunnerFile.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构/oj/小道消息2.c" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构/oj/小道消息2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构/oj/小道消息2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构/oj/小道消息2.exe" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,17 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../音乐播放器/PythonWeb/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,7 +67,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../web二" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
@@ -105,11 +96,12 @@
       <updated>1565275263589</updated>
       <workItem from="1565275266448" duration="1467000" />
       <workItem from="1566394266277" duration="3844000" />
+      <workItem from="1567385724866" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5311000" />
+    <option name="totallyTimeSpent" value="5330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="676" y="0" width="697" height="735" extended-state="0" />

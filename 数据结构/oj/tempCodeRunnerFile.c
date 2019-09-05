@@ -1,25 +1,31 @@
+#include<stdio.h>
 
+int main(void)
+{
+    int n,k;
+    scanf("%d %d",&n,&k);
+    int cnt=1;
+    int k1=k,k2=k;
+    if(n<=3)
     {
-        FLAG=0;
-        for(i=0;i<n;i++)
+        if(k==2)
         {
-            if(p[i].flag==1)
-            {
-                FLAG++;
-            }else
-            {
-                for(j=0;j<n&&j!=i&&p[j].flag>0;j++)
-                {
-                    if(gcd(p[i].shu,p[j].shu)==1)
-                    {
-                        FLAG++;
-                        p[i].flag=1;
-                        p[j].flag++;
-                        break;
-                    }
-                }
-            }
+            cnt=1;
+        }else
+        {
+            cnt=2;
+        }
+        
+    }else
+    {
+        while((2>(k1+1)/2)&&((k2+1)*2>n))
+        {
+            k1=(k1+1)/2;
+            k2=(k2+1)*2>n;
+            cnt++;
         }
     }
-    for(i=0;i<n;i++)
-    {
+    
+    printf("%d\n",cnt);
+    return 0;
+}

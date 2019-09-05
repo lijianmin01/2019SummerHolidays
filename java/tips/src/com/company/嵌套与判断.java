@@ -5,47 +5,47 @@ import java.util.Scanner;
 public class 嵌套与判断 {
     public static void main(String[] args)
     {
-//        Scanner in=new Scanner(System.in);
-//        int x=in.nextInt();
-//        int y=in.nextInt();
-//        int z=in.nextInt();
-//        int max;
-//        if(x>y)
-//        {
-//            if(x>z)
-//            {
-//                max=x;
-//            }else
-//            {
-//                max=z;
-//            }
-//        }else
-//        {
-//            if(y>z)
-//            {
-//                max=y;
-//            }else
-//            {
-//                max=z;
-//            }
-//        }
-//        System.out.println("这三个数最大是："+max);
+        Scanner in=new Scanner(System.in);
+        int x=in.nextInt();
+        int y=in.nextInt();
+        int z=in.nextInt();
+        int max;
+        if(x>y)
+        {
+            if(x>z)
+            {
+                max=x;
+            }else
+            {
+                max=z;
+            }
+        }else
+        {
+            if(y>z)
+            {
+                max=y;
+            }else
+            {
+                max=z;
+            }
+        }
+        System.out.println("这三个数最大是："+max);
 
-        //分段函数
-//        int x,f;
-//        Scanner in=new Scanner(System.in);
-//        x=in.nextInt();
-//        if(x<0)
-//        {
-//            f=-1;
-//        }else if(x==0)
-//        {
-//            f=0;
-//        }else
-//        {
-//            f=2*x;
-//        }
-//        System.out.println("f是："+f);
+        分段函数
+        int x,f;
+        Scanner in=new Scanner(System.in);
+        x=in.nextInt();
+        if(x<0)
+        {
+            f=-1;
+        }else if(x==0)
+        {
+            f=0;
+        }else
+        {
+            f=2*x;
+        }
+        System.out.println("f是："+f);
         //多分支开关 switch-case
         Scanner in=new Scanner(System.in);
         int type=in.nextInt();
